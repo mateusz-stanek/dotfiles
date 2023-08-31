@@ -24,4 +24,4 @@
     2. In `after/plugin/lsp.lua` add language server to `ensure_installed`
 
 ### TODO
-    1. Document typical workflow
+1. Document typical workflow
