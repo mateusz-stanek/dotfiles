@@ -25,3 +25,4 @@
 
 ### TODO
 1. Document typical workflow
+2. Resolve conflict between prettier.nvim and lsp format
