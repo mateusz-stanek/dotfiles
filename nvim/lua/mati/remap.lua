@@ -32,7 +32,7 @@ vim.keymap.set({"n", "v"}, "<leader>d", [["_d]])
 vim.keymap.set("n", "Q", "<nop>")
 
 -- lsp format
--- vim.keymap.set("n", "<leader>f", vim.lsp.buf.format)
+vim.keymap.set("n", "<leader>f", vim.lsp.buf.format)
 -- Moved to prettier.lua to use null-ls
 
 -- Quickfix navigation
